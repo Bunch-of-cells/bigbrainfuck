@@ -14,6 +14,7 @@ This means you can manipulate code during the runtime, creating all sorts of pro
 * `,`: getch input and save to current data-cell
 * `[`: start a loop, if current data-cell is not 0
 * `]`: end loop
+
 And some new ones...
 * `$`: end the program
 * `/`: increment the data pointer to right by 4
@@ -25,6 +26,7 @@ And some new ones...
 * `*`: pop the pointer stack and set data pointer to the pointer
 * `{`: push the current data-cell data to the cell stack
 * `}`: pop the cell stack and set data to data in current data-cell
+
 And some more...
 * `1`: set the data pointer to the data in current data-cell
 * `2`: set the code pointer to the data in current data-cell
