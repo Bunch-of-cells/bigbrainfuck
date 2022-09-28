@@ -1,8 +1,10 @@
 # BigBrainFuck
 Bigger and Better
 
-The main difference between bbf and bf is: in bbf, code and data is the same
-The code is stored in the memory array
+The main difference between bbf and bf is: in bbf, code and data is the same.
+
+The code is stored in the memory array.
+
 This means you can manipulate code during the runtime, creating all sorts of programs in fewer lines.
 
 ## Operators:
